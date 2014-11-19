@@ -1,0 +1,14 @@
+(no author) = Arvid Norberg <arvid@rasterbar.com>
+arvidn = Arvid Norberg <arvid@rasterbar.com>
+zealmange = Magnus Jonsson <jmagnusj@gmail.com>
+peerkoel = Peter Koeleman <peter@peerweb.nl>
+wojci = Michael Wojciechowski <devnull@wojci.dk>
+andrewresch = Andrew Resch <andrewresch@gmail.com>
+roman_rybalko = Roman Rybalko <devel@romanr.info>
+cristiangreco = Cristian Greco <cristian@debian.org>
+d34df00d = Georg Rudoy <0xd34df00d@gmail.com>
+ideali = Alex Dedul <rotmer@gmail.com>
+daniel_wallin = Daniel Wallin <daniel@boostpro.com>
+unsh = Un Shyam <un.shyam@gmail.com>
+spyhole = spyhole <noreply@bar.com>
+cg25 = cg25 <noreply@bar.com>
